@@ -1,0 +1,18 @@
+[
+  {
+    "package": "aqp",
+    "oncran": true
+  },
+  {
+    "package": "sharpshootR",
+    "oncran": true
+  },
+  {
+    "package": "soilDB",
+    "oncran": true
+  },
+  {
+    "package": "SoilTaxonomy",
+    "oncran": true
+  }
+]
