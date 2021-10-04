@@ -8,11 +8,6 @@
 	url = https://github.com/ncss-tech/aqp
 	shallow = true
 	registered = true
-[submodule "sharpshootR"]
-	path = sharpshootR
-	url = https://github.com/ncss-tech/aqp
-	shallow = true
-	registered = true
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/ncss-tech/soildb
