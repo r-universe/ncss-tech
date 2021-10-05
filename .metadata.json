@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "sharpshootR",
-    "oncran": true
-  },
-  {
     "package": "soilDB",
     "oncran": true
   },
