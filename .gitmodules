@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/ncss-tech/aqp
-	shallow = true
-	registered = true
 [submodule "sharpshootR"]
 	path = sharpshootR
 	url = https://github.com/ncss-tech/sharpshootr
-	shallow = true
-	registered = true
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/ncss-tech/soildb
-	shallow = true
-	registered = true
 [submodule "SoilTaxonomy"]
 	path = SoilTaxonomy
 	url = https://github.com/ncss-tech/soiltaxonomy
-	shallow = true
-	registered = true
