@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SoilTaxonomy"]
+	path = SoilTaxonomy
+	url = https://github.com/ncss-tech/soiltaxonomy
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/ncss-tech/aqp
@@ -11,6 +14,3 @@
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/ncss-tech/soildb
-[submodule "SoilTaxonomy"]
-	path = SoilTaxonomy
-	url = https://github.com/ncss-tech/soiltaxonomy
