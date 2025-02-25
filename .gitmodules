@@ -1,16 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ncss-tech/ncss-tech.r-universe.dev
 	branch = HEAD
-[submodule "SoilTaxonomy"]
-	path = SoilTaxonomy
-	url = https://github.com/ncss-tech/soiltaxonomy
+[submodule "SSURGOPortal"]
+	path = SSURGOPortal
+	url = https://github.com/brownag/SSURGOPortalR
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/ncss-tech/aqp
+[submodule "jNSMR"]
+	path = jNSMR
+	url = https://github.com/ncss-tech/jNSMR
+[submodule "rgeowheels"]
+	path = rgeowheels
+	url = https://github.com/brownag/rgeowheels
+[submodule "rosettaPTF"]
+	path = rosettaPTF
+	url = https://github.com/ncss-tech/rosettaPTF
 [submodule "sharpshootR"]
 	path = sharpshootR
-	url = https://github.com/ncss-tech/sharpshootr
+	url = https://github.com/ncss-tech/sharpshootR
 [submodule "soilDB"]
 	path = soilDB
-	url = https://github.com/ncss-tech/soildb
+	url = https://github.com/ncss-tech/soilDB
+[submodule "soilDBdata"]
+	path = soilDBdata
+	url = https://github.com/brownag/soilDBdata
+[submodule "soilReports"]
+	path = soilReports
+	url = https://github.com/ncss-tech/soilReports
