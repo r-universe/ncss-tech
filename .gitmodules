@@ -5,6 +5,9 @@
 [submodule "SSURGOPortal"]
 	path = SSURGOPortal
 	url = https://github.com/brownag/SSURGOPortalR
+[submodule "SoilTaxonomy"]
+	path = SoilTaxonomy
+	url = https://github.com/ncss-tech/SoilTaxonomy
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/ncss-tech/aqp
