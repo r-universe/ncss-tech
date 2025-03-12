@@ -4,5 +4,11 @@
     "url": "https://github.com/brownag/rgeowheels",
     "via": ["SSURGOPortal"],
     "from": "SSURGOPortal"
+  },
+  {
+    "package": "sharpshootR",
+    "url": "https://github.com/ncss-tech/sharpshootR",
+    "via": ["soilReports"],
+    "from": "soilReports"
   }
 ]
